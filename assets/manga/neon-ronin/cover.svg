@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200" viewBox="0 0 800 1200">
+<defs><linearGradient id="cg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101820"/><stop offset="1" stop-color="#31e0d0" stop-opacity="0.55"/></linearGradient></defs>
+<rect width="800" height="1200" fill="url(#cg)"/>
+<line x1="183" y1="497" x2="-142" y2="452" stroke="#ffe14d" stroke-width="7" opacity="0.34"/>
+<line x1="221" y1="429" x2="-136" y2="230" stroke="#ffe14d" stroke-width="6" opacity="0.33"/>
+<line x1="264" y1="701" x2="30" y2="999" stroke="#ffe14d" stroke-width="6" opacity="0.22"/>
+<line x1="527" y1="378" x2="794" y2="63" stroke="#ffe14d" stroke-width="6" opacity="0.30"/>
+<line x1="511" y1="286" x2="635" y2="13" stroke="#ffe14d" stroke-width="8" opacity="0.31"/>
+<line x1="238" y1="402" x2="27" y2="238" stroke="#ffe14d" stroke-width="8" opacity="0.37"/>
+<line x1="358" y1="759" x2="304" y2="1055" stroke="#ffe14d" stroke-width="6" opacity="0.38"/>
+<line x1="643" y1="598" x2="1022" y2="707" stroke="#ffe14d" stroke-width="4" opacity="0.35"/>
+<line x1="218" y1="507" x2="-125" y2="468" stroke="#ffe14d" stroke-width="7" opacity="0.18"/>
+<line x1="581" y1="716" x2="698" y2="839" stroke="#ffe14d" stroke-width="4" opacity="0.23"/>
+<line x1="375" y1="758" x2="340" y2="1082" stroke="#ffe14d" stroke-width="3" opacity="0.15"/>
+<line x1="531" y1="338" x2="606" y2="231" stroke="#ffe14d" stroke-width="4" opacity="0.29"/>
+<line x1="575" y1="615" x2="808" y2="732" stroke="#ffe14d" stroke-width="8" opacity="0.19"/>
+<line x1="471" y1="268" x2="566" y2="-82" stroke="#ffe14d" stroke-width="8" opacity="0.37"/>
+<line x1="325" y1="702" x2="216" y2="957" stroke="#ffe14d" stroke-width="4" opacity="0.23"/>
+<line x1="202" y1="453" x2="-179" y2="309" stroke="#ffe14d" stroke-width="4" opacity="0.34"/>
+<line x1="260" y1="358" x2="182" y2="264" stroke="#ffe14d" stroke-width="5" opacity="0.16"/>
+<line x1="190" y1="670" x2="-155" y2="903" stroke="#ffe14d" stroke-width="9" opacity="0.38"/>
+<line x1="290" y1="321" x2="223" y2="194" stroke="#ffe14d" stroke-width="5" opacity="0.18"/>
+<line x1="585" y1="582" x2="851" y2="660" stroke="#ffe14d" stroke-width="8" opacity="0.31"/>
+<line x1="512" y1="719" x2="620" y2="902" stroke="#ffe14d" stroke-width="4" opacity="0.31"/>
+<line x1="557" y1="321" x2="694" y2="140" stroke="#ffe14d" stroke-width="8" opacity="0.18"/>
+<line x1="608" y1="421" x2="785" y2="330" stroke="#ffe14d" stroke-width="5" opacity="0.21"/>
+<line x1="641" y1="414" x2="768" y2="353" stroke="#ffe14d" stroke-width="4" opacity="0.21"/>
+<line x1="205" y1="637" x2="0" y2="751" stroke="#ffe14d" stroke-width="6" opacity="0.22"/>
+<line x1="335" y1="317" x2="236" y2="-7" stroke="#ffe14d" stroke-width="7" opacity="0.23"/>
+<circle cx="400.0" cy="528.0" r="150" fill="#ffe14d" opacity="0.9"/>
+<circle cx="400.0" cy="528.0" r="150" fill="none" stroke="#101820" stroke-width="10"/>
+<text x="400.0" y="564.0" font-family="Georgia,serif" font-size="64" font-weight="bold" text-anchor="middle" fill="#101820">DUMMY</text>
+<rect x="40" y="940" width="720" height="200" rx="14" fill="#101820" opacity="0.88"/>
+<text x="400.0" y="1010" font-family="Georgia,serif" font-size="46" font-weight="bold" text-anchor="middle" fill="#d9fbff">Neon</text>
+<text x="400.0" y="1066" font-family="Georgia,serif" font-size="46" font-weight="bold" text-anchor="middle" fill="#d9fbff">Ronin</text>
+<text x="400.0" y="1108" font-family="Verdana,sans-serif" font-size="26" text-anchor="middle" fill="#ffe14d">story &amp; art — J. Watanabe</text>
+<text x="400.0" y="1148" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#d9fbff" opacity="0.7">3 chapters · dummy cover</text>
+</svg>

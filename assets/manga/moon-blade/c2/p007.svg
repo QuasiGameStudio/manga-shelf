@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1721" viewBox="0 0 800 1721">
+<rect width="800" height="1721" fill="#12172b"/>
+<rect x="36" y="36" width="728" height="452" rx="6" fill="#12172b" stroke="#7c8cff" stroke-width="3"/>
+<g clip-path="url(#clip7_0)">
+<clipPath id="clip7_0"><rect x="36" y="36" width="728" height="452" rx="6"/></clipPath>
+<circle cx="582" cy="163" r="54" fill="#b8a1ff"/><path d="M 36 488 L 254 226 L 415 375 L 560 199 L 764 488 Z" fill="#7c8cff" opacity="0.8"/>
+</g>
+<rect x="36" y="506" width="728" height="575" rx="6" fill="#12172b" stroke="#7c8cff" stroke-width="3"/>
+<g clip-path="url(#clip7_1)">
+<clipPath id="clip7_1"><rect x="36" y="506" width="728" height="575" rx="6"/></clipPath>
+<circle cx="217" cy="739" r="75" fill="#b8a1ff" opacity="0.85"/><path d="M 119 1073 Q 217 784 315 1073 Z" fill="#7c8cff" opacity="0.85"/><circle cx="395" cy="730" r="82" fill="#b8a1ff" opacity="0.85"/><path d="M 289 1073 Q 395 779 501 1073 Z" fill="#7c8cff" opacity="0.85"/>
+</g>
+<rect x="62" y="1099" width="702" height="586" rx="6" fill="#12172b" stroke="#7c8cff" stroke-width="3"/>
+<g clip-path="url(#clip7_2)">
+<clipPath id="clip7_2"><rect x="62" y="1099" width="702" height="586" rx="6"/></clipPath>
+<line x1="68" y1="1515" x2="758" y2="1511" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><line x1="68" y1="1149" x2="758" y2="1150" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><line x1="68" y1="1325" x2="758" y2="1330" stroke="#7c8cff" stroke-width="2" opacity="0.5"/><line x1="68" y1="1539" x2="758" y2="1538" stroke="#7c8cff" stroke-width="3" opacity="0.5"/><line x1="68" y1="1619" x2="758" y2="1615" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><line x1="68" y1="1210" x2="758" y2="1209" stroke="#7c8cff" stroke-width="5" opacity="0.5"/><circle cx="413" cy="1392" r="129" fill="none" stroke="#b8a1ff" stroke-width="6"/>
+</g>
+<text x="400.0" y="1707" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#e8ecff" opacity="0.75">7 / 10 — dummy page, replace with real art</text>
+</svg>

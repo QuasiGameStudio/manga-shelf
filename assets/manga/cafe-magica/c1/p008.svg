@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1204" viewBox="0 0 800 1204">
+<rect width="800" height="1204" fill="#2a1b2d"/>
+<rect x="62" y="36" width="702" height="234" rx="6" fill="#2a1b2d" stroke="#ff8fb8" stroke-width="3"/>
+<g clip-path="url(#clip8_0)">
+<clipPath id="clip8_0"><rect x="62" y="36" width="702" height="234" rx="6"/></clipPath>
+<ellipse cx="413" cy="153" rx="88" ry="65" fill="none" stroke="#ffeef6" stroke-width="4"/><text x="413" y="161" font-family="Verdana,sans-serif" font-size="33" font-weight="bold" text-anchor="middle" fill="#ffeef6">WOW</text><circle cx="511" cy="212" r="5" fill="#ffeef6" opacity="0.8"/><circle cx="525" cy="224" r="8" fill="#ffeef6" opacity="0.8"/><circle cx="539" cy="236" r="11" fill="#ffeef6" opacity="0.8"/>
+</g>
+<rect x="36" y="288" width="728" height="252" rx="6" fill="#2a1b2d" stroke="#ff8fb8" stroke-width="3"/>
+<g clip-path="url(#clip8_1)">
+<clipPath id="clip8_1"><rect x="36" y="288" width="728" height="252" rx="6"/></clipPath>
+<rect x="38" y="421" width="69" height="119" fill="#ffd36e" opacity="0.55"/><rect x="58" y="444" width="10" height="12" fill="#ffeef6" opacity="0.7"/><rect x="111" y="448" width="69" height="92" fill="#ffd36e" opacity="0.55"/><rect x="131" y="466" width="10" height="9" fill="#ffeef6" opacity="0.7"/><rect x="184" y="407" width="69" height="133" fill="#ffd36e" opacity="0.55"/><rect x="203" y="433" width="10" height="13" fill="#ffeef6" opacity="0.7"/><rect x="256" y="444" width="69" height="96" fill="#ffd36e" opacity="0.55"/><rect x="276" y="463" width="10" height="10" fill="#ffeef6" opacity="0.7"/><rect x="329" y="469" width="69" height="71" fill="#ffd36e" opacity="0.55"/><rect x="349" y="483" width="10" height="7" fill="#ffeef6" opacity="0.7"/><rect x="402" y="432" width="69" height="108" fill="#ffd36e" opacity="0.55"/><rect x="422" y="453" width="10" height="11" fill="#ffeef6" opacity="0.7"/><rect x="475" y="411" width="69" height="128" fill="#ffd36e" opacity="0.55"/><rect x="495" y="437" width="10" height="13" fill="#ffeef6" opacity="0.7"/><rect x="548" y="414" width="69" height="126" fill="#ffd36e" opacity="0.55"/><rect x="567" y="439" width="10" height="13" fill="#ffeef6" opacity="0.7"/><rect x="620" y="434" width="69" height="105" fill="#ffd36e" opacity="0.55"/><rect x="640" y="455" width="10" height="11" fill="#ffeef6" opacity="0.7"/><rect x="693" y="433" width="69" height="107" fill="#ffd36e" opacity="0.55"/><rect x="713" y="454" width="10" height="11" fill="#ffeef6" opacity="0.7"/>
+</g>
+<rect x="36" y="557" width="728" height="292" rx="6" fill="#2a1b2d" stroke="#ff8fb8" stroke-width="3"/>
+<g clip-path="url(#clip8_2)">
+<clipPath id="clip8_2"><rect x="36" y="557" width="728" height="292" rx="6"/></clipPath>
+<ellipse cx="400" cy="703" rx="110" ry="82" fill="none" stroke="#ffeef6" stroke-width="4"/><text x="400" y="711" font-family="Verdana,sans-serif" font-size="41" font-weight="bold" text-anchor="middle" fill="#ffeef6">WOW</text><circle cx="522" cy="777" r="5" fill="#ffeef6" opacity="0.8"/><circle cx="536" cy="789" r="8" fill="#ffeef6" opacity="0.8"/><circle cx="550" cy="801" r="11" fill="#ffeef6" opacity="0.8"/>
+</g>
+<rect x="62" y="867" width="702" height="301" rx="6" fill="#2a1b2d" stroke="#ff8fb8" stroke-width="3"/>
+<g clip-path="url(#clip8_3)">
+<clipPath id="clip8_3"><rect x="62" y="867" width="702" height="301" rx="6"/></clipPath>
+<ellipse cx="413" cy="1018" rx="114" ry="84" fill="none" stroke="#ffeef6" stroke-width="4"/><text x="413" y="1026" font-family="Verdana,sans-serif" font-size="42" font-weight="bold" text-anchor="middle" fill="#ffeef6">OK.</text><circle cx="539" cy="1093" r="5" fill="#ffeef6" opacity="0.8"/><circle cx="553" cy="1105" r="8" fill="#ffeef6" opacity="0.8"/><circle cx="567" cy="1117" r="11" fill="#ffeef6" opacity="0.8"/>
+</g>
+<text x="400.0" y="1190" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#ffeef6" opacity="0.75">8 / 9 — dummy page, replace with real art</text>
+</svg>

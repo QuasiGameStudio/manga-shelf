@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1323" viewBox="0 0 800 1323">
+<rect width="800" height="1323" fill="#1b2418"/>
+<rect x="36" y="36" width="728" height="669" rx="6" fill="#1b2418" stroke="#7fd069" stroke-width="3"/>
+<g clip-path="url(#clip5_0)">
+<clipPath id="clip5_0"><rect x="36" y="36" width="728" height="669" rx="6"/></clipPath>
+<rect x="38" y="345" width="69" height="361" fill="#ffe08a" opacity="0.55"/><rect x="58" y="417" width="10" height="36" fill="#eefbe6" opacity="0.7"/><rect x="111" y="482" width="69" height="223" fill="#ffe08a" opacity="0.55"/><rect x="131" y="527" width="10" height="22" fill="#eefbe6" opacity="0.7"/><rect x="184" y="462" width="69" height="244" fill="#ffe08a" opacity="0.55"/><rect x="203" y="510" width="10" height="24" fill="#eefbe6" opacity="0.7"/><rect x="256" y="345" width="69" height="360" fill="#ffe08a" opacity="0.55"/><rect x="276" y="417" width="10" height="36" fill="#eefbe6" opacity="0.7"/><rect x="329" y="432" width="69" height="273" fill="#ffe08a" opacity="0.55"/><rect x="349" y="487" width="10" height="27" fill="#eefbe6" opacity="0.7"/><rect x="402" y="342" width="69" height="363" fill="#ffe08a" opacity="0.55"/><rect x="422" y="415" width="10" height="36" fill="#eefbe6" opacity="0.7"/><rect x="475" y="449" width="69" height="256" fill="#ffe08a" opacity="0.55"/><rect x="495" y="500" width="10" height="26" fill="#eefbe6" opacity="0.7"/><rect x="548" y="466" width="69" height="240" fill="#ffe08a" opacity="0.55"/><rect x="567" y="514" width="10" height="24" fill="#eefbe6" opacity="0.7"/><rect x="620" y="505" width="69" height="200" fill="#ffe08a" opacity="0.55"/><rect x="640" y="545" width="10" height="20" fill="#eefbe6" opacity="0.7"/><rect x="693" y="459" width="69" height="246" fill="#ffe08a" opacity="0.55"/><rect x="713" y="509" width="10" height="25" fill="#eefbe6" opacity="0.7"/>
+</g>
+<rect x="36" y="723" width="728" height="564" rx="6" fill="#1b2418" stroke="#7fd069" stroke-width="3"/>
+<g clip-path="url(#clip5_1)">
+<clipPath id="clip5_1"><rect x="36" y="723" width="728" height="564" rx="6"/></clipPath>
+<circle cx="582" cy="881" r="68" fill="#ffe08a"/><path d="M 36 1287 L 254 960 L 415 1146 L 560 926 L 764 1287 Z" fill="#7fd069" opacity="0.8"/>
+</g>
+<text x="400.0" y="1309" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#eefbe6" opacity="0.75">5 / 9 — dummy page, replace with real art</text>
+</svg>

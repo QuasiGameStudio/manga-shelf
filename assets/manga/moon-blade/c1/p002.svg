@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1172" viewBox="0 0 800 1172">
+<rect width="800" height="1172" fill="#12172b"/>
+<rect x="36" y="36" width="728" height="409" rx="6" fill="#12172b" stroke="#7c8cff" stroke-width="3"/>
+<g clip-path="url(#clip2_0)">
+<clipPath id="clip2_0"><rect x="36" y="36" width="728" height="409" rx="6"/></clipPath>
+<line x1="42" y1="432" x2="758" y2="433" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><line x1="42" y1="49" x2="758" y2="56" stroke="#7c8cff" stroke-width="2" opacity="0.5"/><line x1="42" y1="419" x2="758" y2="421" stroke="#7c8cff" stroke-width="3" opacity="0.5"/><line x1="42" y1="305" x2="758" y2="301" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><line x1="42" y1="223" x2="758" y2="224" stroke="#7c8cff" stroke-width="5" opacity="0.5"/><line x1="42" y1="383" x2="758" y2="379" stroke="#7c8cff" stroke-width="2" opacity="0.5"/><line x1="42" y1="115" x2="758" y2="111" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><line x1="42" y1="398" x2="758" y2="402" stroke="#7c8cff" stroke-width="5" opacity="0.5"/><line x1="42" y1="133" x2="758" y2="135" stroke="#7c8cff" stroke-width="2" opacity="0.5"/><line x1="42" y1="99" x2="758" y2="104" stroke="#7c8cff" stroke-width="2" opacity="0.5"/><circle cx="400" cy="240" r="90" fill="none" stroke="#b8a1ff" stroke-width="6"/>
+</g>
+<rect x="62" y="463" width="702" height="341" rx="6" fill="#12172b" stroke="#7c8cff" stroke-width="3"/>
+<g clip-path="url(#clip2_1)">
+<clipPath id="clip2_1"><rect x="62" y="463" width="702" height="341" rx="6"/></clipPath>
+<circle cx="228" cy="657" r="35" fill="#b8a1ff" opacity="0.85"/><path d="M 182 796 Q 228 678 273 796 Z" fill="#7c8cff" opacity="0.85"/><circle cx="403" cy="614" r="52" fill="#b8a1ff" opacity="0.85"/><path d="M 335 796 Q 403 645 471 796 Z" fill="#7c8cff" opacity="0.85"/>
+</g>
+<rect x="36" y="822" width="728" height="314" rx="6" fill="#12172b" stroke="#7c8cff" stroke-width="3"/>
+<g clip-path="url(#clip2_2)">
+<clipPath id="clip2_2"><rect x="36" y="822" width="728" height="314" rx="6"/></clipPath>
+<ellipse cx="400" cy="979" rx="119" ry="88" fill="none" stroke="#e8ecff" stroke-width="4"/><text x="400" y="987" font-family="Verdana,sans-serif" font-size="44" font-weight="bold" text-anchor="middle" fill="#e8ecff">WOW</text><circle cx="532" cy="1058" r="5" fill="#e8ecff" opacity="0.8"/><circle cx="546" cy="1070" r="8" fill="#e8ecff" opacity="0.8"/><circle cx="560" cy="1082" r="11" fill="#e8ecff" opacity="0.8"/>
+</g>
+<text x="400.0" y="1158" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#e8ecff" opacity="0.75">2 / 11 — dummy page, replace with real art</text>
+</svg>

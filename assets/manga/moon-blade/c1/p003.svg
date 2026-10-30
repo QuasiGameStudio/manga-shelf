@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1428" viewBox="0 0 800 1428">
+<rect width="800" height="1428" fill="#12172b"/>
+<rect x="62" y="36" width="702" height="503" rx="6" fill="#12172b" stroke="#7c8cff" stroke-width="3"/>
+<g clip-path="url(#clip3_0)">
+<clipPath id="clip3_0"><rect x="62" y="36" width="702" height="503" rx="6"/></clipPath>
+<circle cx="588" cy="177" r="60" fill="#b8a1ff"/><path d="M 62 539 L 273 247 L 427 413 L 567 217 L 764 539 Z" fill="#7c8cff" opacity="0.8"/>
+</g>
+<rect x="62" y="557" width="702" height="526" rx="6" fill="#12172b" stroke="#7c8cff" stroke-width="3"/>
+<g clip-path="url(#clip3_1)">
+<clipPath id="clip3_1"><rect x="62" y="557" width="702" height="526" rx="6"/></clipPath>
+<line x1="68" y1="928" x2="758" y2="925" stroke="#7c8cff" stroke-width="3" opacity="0.5"/><line x1="68" y1="662" x2="758" y2="660" stroke="#7c8cff" stroke-width="5" opacity="0.5"/><line x1="68" y1="644" x2="758" y2="640" stroke="#7c8cff" stroke-width="5" opacity="0.5"/><line x1="68" y1="652" x2="758" y2="655" stroke="#7c8cff" stroke-width="2" opacity="0.5"/><line x1="68" y1="965" x2="758" y2="960" stroke="#7c8cff" stroke-width="5" opacity="0.5"/><line x1="68" y1="1057" x2="758" y2="1050" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><line x1="68" y1="1010" x2="758" y2="1012" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><line x1="68" y1="1010" x2="758" y2="1015" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><line x1="68" y1="977" x2="758" y2="972" stroke="#7c8cff" stroke-width="3" opacity="0.5"/><circle cx="413" cy="819" r="116" fill="none" stroke="#b8a1ff" stroke-width="6"/>
+</g>
+<rect x="36" y="1100" width="728" height="292" rx="6" fill="#12172b" stroke="#7c8cff" stroke-width="3"/>
+<g clip-path="url(#clip3_2)">
+<clipPath id="clip3_2"><rect x="36" y="1100" width="728" height="292" rx="6"/></clipPath>
+<ellipse cx="400" cy="1246" rx="110" ry="82" fill="none" stroke="#e8ecff" stroke-width="4"/><text x="400" y="1254" font-family="Verdana,sans-serif" font-size="41" font-weight="bold" text-anchor="middle" fill="#e8ecff">TALK</text><circle cx="523" cy="1320" r="5" fill="#e8ecff" opacity="0.8"/><circle cx="537" cy="1332" r="8" fill="#e8ecff" opacity="0.8"/><circle cx="551" cy="1344" r="11" fill="#e8ecff" opacity="0.8"/>
+</g>
+<text x="400.0" y="1414" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#e8ecff" opacity="0.75">3 / 11 — dummy page, replace with real art</text>
+</svg>

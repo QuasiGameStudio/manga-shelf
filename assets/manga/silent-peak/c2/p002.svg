@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1311" viewBox="0 0 800 1311">
+<rect width="800" height="1311" fill="#191423"/>
+<rect x="62" y="36" width="702" height="413" rx="6" fill="#191423" stroke="#9a7bff" stroke-width="3"/>
+<g clip-path="url(#clip2_0)">
+<clipPath id="clip2_0"><rect x="62" y="36" width="702" height="413" rx="6"/></clipPath>
+<ellipse cx="413" cy="242" rx="156" ry="116" fill="none" stroke="#ece7ff" stroke-width="4"/><text x="413" y="250" font-family="Verdana,sans-serif" font-size="58" font-weight="bold" text-anchor="middle" fill="#ece7ff">WOW</text><circle cx="586" cy="347" r="5" fill="#ece7ff" opacity="0.8"/><circle cx="600" cy="359" r="8" fill="#ece7ff" opacity="0.8"/><circle cx="614" cy="371" r="11" fill="#ece7ff" opacity="0.8"/>
+</g>
+<rect x="36" y="467" width="728" height="510" rx="6" fill="#191423" stroke="#9a7bff" stroke-width="3"/>
+<g clip-path="url(#clip2_1)">
+<clipPath id="clip2_1"><rect x="36" y="467" width="728" height="510" rx="6"/></clipPath>
+<circle cx="226" cy="668" r="69" fill="#5ad1ff" opacity="0.85"/><path d="M 136 969 Q 226 709 316 969 Z" fill="#9a7bff" opacity="0.85"/><circle cx="388" cy="707" r="76" fill="#5ad1ff" opacity="0.85"/><path d="M 289 969 Q 388 753 487 969 Z" fill="#9a7bff" opacity="0.85"/><circle cx="591" cy="639" r="77" fill="#5ad1ff" opacity="0.85"/><path d="M 491 969 Q 591 686 691 969 Z" fill="#9a7bff" opacity="0.85"/>
+</g>
+<rect x="36" y="995" width="728" height="280" rx="6" fill="#191423" stroke="#9a7bff" stroke-width="3"/>
+<g clip-path="url(#clip2_2)">
+<clipPath id="clip2_2"><rect x="36" y="995" width="728" height="280" rx="6"/></clipPath>
+<ellipse cx="400" cy="1135" rx="106" ry="78" fill="none" stroke="#ece7ff" stroke-width="4"/><text x="400" y="1143" font-family="Verdana,sans-serif" font-size="39" font-weight="bold" text-anchor="middle" fill="#ece7ff">OK.</text><circle cx="518" cy="1206" r="5" fill="#ece7ff" opacity="0.8"/><circle cx="532" cy="1218" r="8" fill="#ece7ff" opacity="0.8"/><circle cx="546" cy="1230" r="11" fill="#ece7ff" opacity="0.8"/>
+</g>
+<text x="400.0" y="1297" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#ece7ff" opacity="0.75">2 / 10 — dummy page, replace with real art</text>
+</svg>

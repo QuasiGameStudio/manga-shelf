@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200" viewBox="0 0 800 1200">
+<defs><linearGradient id="cg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2a1b2d"/><stop offset="1" stop-color="#ff8fb8" stop-opacity="0.55"/></linearGradient></defs>
+<rect width="800" height="1200" fill="url(#cg)"/>
+<line x1="256" y1="390" x2="21" y2="166" stroke="#ffd36e" stroke-width="6" opacity="0.36"/>
+<line x1="156" y1="601" x2="-124" y2="684" stroke="#ffd36e" stroke-width="4" opacity="0.21"/>
+<line x1="593" y1="424" x2="727" y2="353" stroke="#ffd36e" stroke-width="7" opacity="0.33"/>
+<line x1="322" y1="354" x2="203" y2="90" stroke="#ffd36e" stroke-width="9" opacity="0.23"/>
+<line x1="156" y1="615" x2="-180" y2="735" stroke="#ffd36e" stroke-width="4" opacity="0.19"/>
+<line x1="371" y1="778" x2="339" y2="1052" stroke="#ffd36e" stroke-width="3" opacity="0.21"/>
+<line x1="553" y1="343" x2="701" y2="164" stroke="#ffd36e" stroke-width="3" opacity="0.34"/>
+<line x1="524" y1="317" x2="653" y2="99" stroke="#ffd36e" stroke-width="6" opacity="0.18"/>
+<line x1="238" y1="697" x2="64" y2="878" stroke="#ffd36e" stroke-width="5" opacity="0.24"/>
+<line x1="378" y1="309" x2="363" y2="163" stroke="#ffd36e" stroke-width="6" opacity="0.39"/>
+<line x1="554" y1="648" x2="680" y2="745" stroke="#ffd36e" stroke-width="8" opacity="0.25"/>
+<line x1="545" y1="708" x2="648" y2="836" stroke="#ffd36e" stroke-width="3" opacity="0.37"/>
+<line x1="575" y1="722" x2="784" y2="953" stroke="#ffd36e" stroke-width="7" opacity="0.26"/>
+<line x1="611" y1="361" x2="904" y2="128" stroke="#ffd36e" stroke-width="8" opacity="0.15"/>
+<line x1="239" y1="409" x2="97" y2="305" stroke="#ffd36e" stroke-width="8" opacity="0.25"/>
+<line x1="346" y1="723" x2="248" y2="1078" stroke="#ffd36e" stroke-width="5" opacity="0.34"/>
+<line x1="635" y1="469" x2="896" y2="404" stroke="#ffd36e" stroke-width="5" opacity="0.18"/>
+<line x1="617" y1="503" x2="761" y2="486" stroke="#ffd36e" stroke-width="6" opacity="0.32"/>
+<line x1="289" y1="312" x2="161" y2="61" stroke="#ffd36e" stroke-width="9" opacity="0.18"/>
+<line x1="352" y1="703" x2="258" y2="1051" stroke="#ffd36e" stroke-width="6" opacity="0.27"/>
+<line x1="239" y1="408" x2="66" y2="278" stroke="#ffd36e" stroke-width="5" opacity="0.24"/>
+<line x1="370" y1="717" x2="337" y2="930" stroke="#ffd36e" stroke-width="5" opacity="0.17"/>
+<line x1="584" y1="530" x2="894" y2="534" stroke="#ffd36e" stroke-width="4" opacity="0.37"/>
+<line x1="641" y1="525" x2="926" y2="522" stroke="#ffd36e" stroke-width="3" opacity="0.25"/>
+<line x1="564" y1="689" x2="785" y2="905" stroke="#ffd36e" stroke-width="7" opacity="0.24"/>
+<line x1="553" y1="387" x2="791" y2="167" stroke="#ffd36e" stroke-width="9" opacity="0.19"/>
+<circle cx="400.0" cy="528.0" r="150" fill="#ffd36e" opacity="0.9"/>
+<circle cx="400.0" cy="528.0" r="150" fill="none" stroke="#2a1b2d" stroke-width="10"/>
+<text x="400.0" y="564.0" font-family="Georgia,serif" font-size="64" font-weight="bold" text-anchor="middle" fill="#2a1b2d">DUMMY</text>
+<rect x="40" y="940" width="720" height="200" rx="14" fill="#2a1b2d" opacity="0.88"/>
+<text x="400.0" y="1010" font-family="Georgia,serif" font-size="46" font-weight="bold" text-anchor="middle" fill="#ffeef6">Café</text>
+<text x="400.0" y="1066" font-family="Georgia,serif" font-size="46" font-weight="bold" text-anchor="middle" fill="#ffeef6">Magica</text>
+<text x="400.0" y="1108" font-family="Verdana,sans-serif" font-size="26" text-anchor="middle" fill="#ffd36e">story &amp; art — Mika Todoroki</text>
+<text x="400.0" y="1148" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#ffeef6" opacity="0.7">3 chapters · dummy cover</text>
+</svg>

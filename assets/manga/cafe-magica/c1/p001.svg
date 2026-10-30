@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1712" viewBox="0 0 800 1712">
+<rect width="800" height="1712" fill="#2a1b2d"/>
+<rect x="62" y="36" width="702" height="595" rx="6" fill="#2a1b2d" stroke="#ff8fb8" stroke-width="3"/>
+<g clip-path="url(#clip1_0)">
+<clipPath id="clip1_0"><rect x="62" y="36" width="702" height="595" rx="6"/></clipPath>
+<line x1="68" y1="408" x2="758" y2="410" stroke="#ff8fb8" stroke-width="2" opacity="0.5"/><line x1="68" y1="249" x2="758" y2="248" stroke="#ff8fb8" stroke-width="2" opacity="0.5"/><line x1="68" y1="433" x2="758" y2="431" stroke="#ff8fb8" stroke-width="4" opacity="0.5"/><line x1="68" y1="418" x2="758" y2="420" stroke="#ff8fb8" stroke-width="3" opacity="0.5"/><line x1="68" y1="245" x2="758" y2="249" stroke="#ff8fb8" stroke-width="4" opacity="0.5"/><line x1="68" y1="380" x2="758" y2="382" stroke="#ff8fb8" stroke-width="3" opacity="0.5"/><circle cx="413" cy="334" r="131" fill="none" stroke="#ffd36e" stroke-width="6"/>
+</g>
+<rect x="62" y="649" width="702" height="521" rx="6" fill="#2a1b2d" stroke="#ff8fb8" stroke-width="3"/>
+<g clip-path="url(#clip1_1)">
+<clipPath id="clip1_1"><rect x="62" y="649" width="702" height="521" rx="6"/></clipPath>
+<circle cx="232" cy="857" r="81" fill="#ffd36e" opacity="0.85"/><path d="M 126 1162 Q 232 906 337 1162 Z" fill="#ff8fb8" opacity="0.85"/><circle cx="401" cy="935" r="82" fill="#ffd36e" opacity="0.85"/><path d="M 295 1162 Q 401 984 507 1162 Z" fill="#ff8fb8" opacity="0.85"/>
+</g>
+<rect x="36" y="1188" width="728" height="488" rx="6" fill="#2a1b2d" stroke="#ff8fb8" stroke-width="3"/>
+<g clip-path="url(#clip1_2)">
+<clipPath id="clip1_2"><rect x="36" y="1188" width="728" height="488" rx="6"/></clipPath>
+<line x1="42" y1="1238" x2="758" y2="1233" stroke="#ff8fb8" stroke-width="2" opacity="0.5"/><line x1="42" y1="1429" x2="758" y2="1434" stroke="#ff8fb8" stroke-width="3" opacity="0.5"/><line x1="42" y1="1230" x2="758" y2="1228" stroke="#ff8fb8" stroke-width="2" opacity="0.5"/><line x1="42" y1="1422" x2="758" y2="1426" stroke="#ff8fb8" stroke-width="4" opacity="0.5"/><line x1="42" y1="1438" x2="758" y2="1438" stroke="#ff8fb8" stroke-width="4" opacity="0.5"/><line x1="42" y1="1271" x2="758" y2="1263" stroke="#ff8fb8" stroke-width="2" opacity="0.5"/><line x1="42" y1="1588" x2="758" y2="1582" stroke="#ff8fb8" stroke-width="4" opacity="0.5"/><line x1="42" y1="1670" x2="758" y2="1662" stroke="#ff8fb8" stroke-width="4" opacity="0.5"/><line x1="42" y1="1271" x2="758" y2="1265" stroke="#ff8fb8" stroke-width="4" opacity="0.5"/><line x1="42" y1="1287" x2="758" y2="1291" stroke="#ff8fb8" stroke-width="2" opacity="0.5"/><circle cx="400" cy="1432" r="107" fill="none" stroke="#ffd36e" stroke-width="6"/>
+</g>
+<text x="400.0" y="1698" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#ffeef6" opacity="0.75">1 / 9 — dummy page, replace with real art</text>
+</svg>

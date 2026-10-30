@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1352" viewBox="0 0 800 1352">
+<rect width="800" height="1352" fill="#101820"/>
+<rect x="36" y="36" width="728" height="595" rx="6" fill="#101820" stroke="#31e0d0" stroke-width="3"/>
+<g clip-path="url(#clip4_0)">
+<clipPath id="clip4_0"><rect x="36" y="36" width="728" height="595" rx="6"/></clipPath>
+<circle cx="582" cy="202" r="71" fill="#ffe14d"/><path d="M 36 631 L 254 286 L 415 482 L 560 250 L 764 631 Z" fill="#31e0d0" opacity="0.8"/>
+</g>
+<rect x="36" y="649" width="728" height="352" rx="6" fill="#101820" stroke="#31e0d0" stroke-width="3"/>
+<g clip-path="url(#clip4_1)">
+<clipPath id="clip4_1"><rect x="36" y="649" width="728" height="352" rx="6"/></clipPath>
+<circle cx="582" cy="747" r="42" fill="#ffe14d"/><path d="M 36 1001 L 254 796 L 415 913 L 560 775 L 764 1001 Z" fill="#31e0d0" opacity="0.8"/>
+</g>
+<rect x="36" y="1019" width="728" height="297" rx="6" fill="#101820" stroke="#31e0d0" stroke-width="3"/>
+<g clip-path="url(#clip4_2)">
+<clipPath id="clip4_2"><rect x="36" y="1019" width="728" height="297" rx="6"/></clipPath>
+<rect x="38" y="1212" width="69" height="104" fill="#ffe14d" opacity="0.55"/><rect x="58" y="1233" width="10" height="10" fill="#d9fbff" opacity="0.7"/><rect x="111" y="1213" width="69" height="103" fill="#ffe14d" opacity="0.55"/><rect x="131" y="1233" width="10" height="10" fill="#d9fbff" opacity="0.7"/><rect x="184" y="1155" width="69" height="161" fill="#ffe14d" opacity="0.55"/><rect x="203" y="1187" width="10" height="16" fill="#d9fbff" opacity="0.7"/><rect x="256" y="1141" width="69" height="175" fill="#ffe14d" opacity="0.55"/><rect x="276" y="1176" width="10" height="18" fill="#d9fbff" opacity="0.7"/><rect x="329" y="1197" width="69" height="119" fill="#ffe14d" opacity="0.55"/><rect x="349" y="1221" width="10" height="12" fill="#d9fbff" opacity="0.7"/><rect x="402" y="1169" width="69" height="147" fill="#ffe14d" opacity="0.55"/><rect x="422" y="1198" width="10" height="15" fill="#d9fbff" opacity="0.7"/><rect x="475" y="1153" width="69" height="163" fill="#ffe14d" opacity="0.55"/><rect x="495" y="1186" width="10" height="16" fill="#d9fbff" opacity="0.7"/><rect x="548" y="1240" width="69" height="76" fill="#ffe14d" opacity="0.55"/><rect x="567" y="1255" width="10" height="8" fill="#d9fbff" opacity="0.7"/><rect x="620" y="1154" width="69" height="162" fill="#ffe14d" opacity="0.55"/><rect x="640" y="1187" width="10" height="16" fill="#d9fbff" opacity="0.7"/><rect x="693" y="1187" width="69" height="129" fill="#ffe14d" opacity="0.55"/><rect x="713" y="1213" width="10" height="13" fill="#d9fbff" opacity="0.7"/>
+</g>
+<text x="400.0" y="1338" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#d9fbff" opacity="0.75">4 / 11 — dummy page, replace with real art</text>
+</svg>

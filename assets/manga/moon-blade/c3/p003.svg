@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1456" viewBox="0 0 800 1456">
+<rect width="800" height="1456" fill="#12172b"/>
+<rect x="36" y="36" width="728" height="798" rx="6" fill="#12172b" stroke="#7c8cff" stroke-width="3"/>
+<g clip-path="url(#clip3_0)">
+<clipPath id="clip3_0"><rect x="36" y="36" width="728" height="798" rx="6"/></clipPath>
+<ellipse cx="400" cy="435" rx="275" ry="204" fill="none" stroke="#e8ecff" stroke-width="4"/><text x="400" y="443" font-family="Verdana,sans-serif" font-size="102" font-weight="bold" text-anchor="middle" fill="#e8ecff">TALK</text><circle cx="706" cy="619" r="5" fill="#e8ecff" opacity="0.8"/><circle cx="720" cy="631" r="8" fill="#e8ecff" opacity="0.8"/><circle cx="734" cy="643" r="11" fill="#e8ecff" opacity="0.8"/>
+</g>
+<rect x="36" y="852" width="728" height="568" rx="6" fill="#12172b" stroke="#7c8cff" stroke-width="3"/>
+<g clip-path="url(#clip3_1)">
+<clipPath id="clip3_1"><rect x="36" y="852" width="728" height="568" rx="6"/></clipPath>
+<circle cx="582" cy="1011" r="68" fill="#b8a1ff"/><path d="M 36 1420 L 254 1091 L 415 1278 L 560 1057 L 764 1420 Z" fill="#7c8cff" opacity="0.8"/>
+</g>
+<text x="400.0" y="1442" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#e8ecff" opacity="0.75">3 / 12 — dummy page, replace with real art</text>
+</svg>

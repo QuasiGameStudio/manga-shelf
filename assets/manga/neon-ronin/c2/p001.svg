@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1190" viewBox="0 0 800 1190">
+<rect width="800" height="1190" fill="#101820"/>
+<rect x="36" y="36" width="728" height="459" rx="6" fill="#101820" stroke="#31e0d0" stroke-width="3"/>
+<g clip-path="url(#clip1_0)">
+<clipPath id="clip1_0"><rect x="36" y="36" width="728" height="459" rx="6"/></clipPath>
+<circle cx="582" cy="165" r="55" fill="#ffe14d"/><path d="M 36 495 L 254 229 L 415 381 L 560 201 L 764 495 Z" fill="#31e0d0" opacity="0.8"/>
+</g>
+<rect x="62" y="513" width="702" height="307" rx="6" fill="#101820" stroke="#31e0d0" stroke-width="3"/>
+<g clip-path="url(#clip1_1)">
+<clipPath id="clip1_1"><rect x="62" y="513" width="702" height="307" rx="6"/></clipPath>
+<circle cx="588" cy="599" r="37" fill="#ffe14d"/><path d="M 62 821 L 273 642 L 427 744 L 567 624 L 764 821 Z" fill="#31e0d0" opacity="0.8"/>
+</g>
+<rect x="62" y="839" width="702" height="315" rx="6" fill="#101820" stroke="#31e0d0" stroke-width="3"/>
+<g clip-path="url(#clip1_2)">
+<clipPath id="clip1_2"><rect x="62" y="839" width="702" height="315" rx="6"/></clipPath>
+<line x1="68" y1="1076" x2="758" y2="1076" stroke="#31e0d0" stroke-width="3" opacity="0.5"/><line x1="68" y1="1025" x2="758" y2="1028" stroke="#31e0d0" stroke-width="3" opacity="0.5"/><line x1="68" y1="929" x2="758" y2="931" stroke="#31e0d0" stroke-width="2" opacity="0.5"/><line x1="68" y1="1123" x2="758" y2="1116" stroke="#31e0d0" stroke-width="3" opacity="0.5"/><line x1="68" y1="905" x2="758" y2="912" stroke="#31e0d0" stroke-width="4" opacity="0.5"/><line x1="68" y1="922" x2="758" y2="918" stroke="#31e0d0" stroke-width="4" opacity="0.5"/><line x1="68" y1="1089" x2="758" y2="1085" stroke="#31e0d0" stroke-width="5" opacity="0.5"/><line x1="68" y1="974" x2="758" y2="967" stroke="#31e0d0" stroke-width="4" opacity="0.5"/><line x1="68" y1="1148" x2="758" y2="1156" stroke="#31e0d0" stroke-width="5" opacity="0.5"/><circle cx="413" cy="996" r="69" fill="none" stroke="#ffe14d" stroke-width="6"/>
+</g>
+<text x="400.0" y="1176" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#d9fbff" opacity="0.75">1 / 11 — dummy page, replace with real art</text>
+</svg>

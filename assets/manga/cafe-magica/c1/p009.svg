@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1423" viewBox="0 0 800 1423">
+<rect width="800" height="1423" fill="#2a1b2d"/>
+<rect x="62" y="36" width="702" height="252" rx="6" fill="#2a1b2d" stroke="#ff8fb8" stroke-width="3"/>
+<g clip-path="url(#clip9_0)">
+<clipPath id="clip9_0"><rect x="62" y="36" width="702" height="252" rx="6"/></clipPath>
+<ellipse cx="413" cy="162" rx="95" ry="71" fill="none" stroke="#ffeef6" stroke-width="4"/><text x="413" y="170" font-family="Verdana,sans-serif" font-size="35" font-weight="bold" text-anchor="middle" fill="#ffeef6">SFX</text><circle cx="519" cy="226" r="5" fill="#ffeef6" opacity="0.8"/><circle cx="533" cy="238" r="8" fill="#ffeef6" opacity="0.8"/><circle cx="547" cy="250" r="11" fill="#ffeef6" opacity="0.8"/>
+</g>
+<rect x="36" y="306" width="728" height="299" rx="6" fill="#2a1b2d" stroke="#ff8fb8" stroke-width="3"/>
+<g clip-path="url(#clip9_1)">
+<clipPath id="clip9_1"><rect x="36" y="306" width="728" height="299" rx="6"/></clipPath>
+<circle cx="582" cy="390" r="36" fill="#ffd36e"/><path d="M 36 606 L 254 432 L 415 531 L 560 414 L 764 606 Z" fill="#ff8fb8" opacity="0.8"/>
+</g>
+<rect x="62" y="624" width="702" height="374" rx="6" fill="#2a1b2d" stroke="#ff8fb8" stroke-width="3"/>
+<g clip-path="url(#clip9_2)">
+<clipPath id="clip9_2"><rect x="62" y="624" width="702" height="374" rx="6"/></clipPath>
+<ellipse cx="413" cy="811" rx="141" ry="105" fill="none" stroke="#ffeef6" stroke-width="4"/><text x="413" y="819" font-family="Verdana,sans-serif" font-size="52" font-weight="bold" text-anchor="middle" fill="#ffeef6">HEY!</text><circle cx="570" cy="905" r="5" fill="#ffeef6" opacity="0.8"/><circle cx="584" cy="917" r="8" fill="#ffeef6" opacity="0.8"/><circle cx="598" cy="929" r="11" fill="#ffeef6" opacity="0.8"/>
+</g>
+<rect x="36" y="1016" width="728" height="371" rx="6" fill="#2a1b2d" stroke="#ff8fb8" stroke-width="3"/>
+<g clip-path="url(#clip9_3)">
+<clipPath id="clip9_3"><rect x="36" y="1016" width="728" height="371" rx="6"/></clipPath>
+<circle cx="214" cy="1180" r="41" fill="#ffd36e" opacity="0.85"/><path d="M 161 1379 Q 214 1204 267 1379 Z" fill="#ff8fb8" opacity="0.85"/><circle cx="397" cy="1185" r="43" fill="#ffd36e" opacity="0.85"/><path d="M 341 1379 Q 397 1211 453 1379 Z" fill="#ff8fb8" opacity="0.85"/>
+</g>
+<text x="400.0" y="1409" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#ffeef6" opacity="0.75">9 / 9 — dummy page, replace with real art</text>
+</svg>

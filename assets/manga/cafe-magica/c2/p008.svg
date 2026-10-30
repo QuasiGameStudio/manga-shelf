@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1287" viewBox="0 0 800 1287">
+<rect width="800" height="1287" fill="#2a1b2d"/>
+<rect x="62" y="36" width="702" height="313" rx="6" fill="#2a1b2d" stroke="#ff8fb8" stroke-width="3"/>
+<g clip-path="url(#clip8_0)">
+<clipPath id="clip8_0"><rect x="62" y="36" width="702" height="313" rx="6"/></clipPath>
+<ellipse cx="413" cy="193" rx="118" ry="88" fill="none" stroke="#ffeef6" stroke-width="4"/><text x="413" y="201" font-family="Verdana,sans-serif" font-size="44" font-weight="bold" text-anchor="middle" fill="#ffeef6">WOW</text><circle cx="545" cy="272" r="5" fill="#ffeef6" opacity="0.8"/><circle cx="559" cy="284" r="8" fill="#ffeef6" opacity="0.8"/><circle cx="573" cy="296" r="11" fill="#ffeef6" opacity="0.8"/>
+</g>
+<rect x="36" y="367" width="728" height="409" rx="6" fill="#2a1b2d" stroke="#ff8fb8" stroke-width="3"/>
+<g clip-path="url(#clip8_1)">
+<clipPath id="clip8_1"><rect x="36" y="367" width="728" height="409" rx="6"/></clipPath>
+<rect x="38" y="568" width="69" height="208" fill="#ffd36e" opacity="0.55"/><rect x="58" y="610" width="10" height="21" fill="#ffeef6" opacity="0.7"/><rect x="111" y="618" width="69" height="158" fill="#ffd36e" opacity="0.55"/><rect x="131" y="650" width="10" height="16" fill="#ffeef6" opacity="0.7"/><rect x="184" y="584" width="69" height="193" fill="#ffd36e" opacity="0.55"/><rect x="203" y="622" width="10" height="19" fill="#ffeef6" opacity="0.7"/><rect x="256" y="576" width="69" height="200" fill="#ffd36e" opacity="0.55"/><rect x="276" y="616" width="10" height="20" fill="#ffeef6" opacity="0.7"/><rect x="329" y="543" width="69" height="234" fill="#ffd36e" opacity="0.55"/><rect x="349" y="589" width="10" height="23" fill="#ffeef6" opacity="0.7"/><rect x="402" y="605" width="69" height="171" fill="#ffd36e" opacity="0.55"/><rect x="422" y="639" width="10" height="17" fill="#ffeef6" opacity="0.7"/><rect x="475" y="615" width="69" height="161" fill="#ffd36e" opacity="0.55"/><rect x="495" y="647" width="10" height="16" fill="#ffeef6" opacity="0.7"/><rect x="548" y="596" width="69" height="180" fill="#ffd36e" opacity="0.55"/><rect x="567" y="632" width="10" height="18" fill="#ffeef6" opacity="0.7"/><rect x="620" y="645" width="69" height="131" fill="#ffd36e" opacity="0.55"/><rect x="640" y="671" width="10" height="13" fill="#ffeef6" opacity="0.7"/><rect x="693" y="533" width="69" height="243" fill="#ffd36e" opacity="0.55"/><rect x="713" y="582" width="10" height="24" fill="#ffeef6" opacity="0.7"/>
+</g>
+<rect x="62" y="794" width="702" height="457" rx="6" fill="#2a1b2d" stroke="#ff8fb8" stroke-width="3"/>
+<g clip-path="url(#clip8_2)">
+<clipPath id="clip8_2"><rect x="62" y="794" width="702" height="457" rx="6"/></clipPath>
+<circle cx="588" cy="922" r="55" fill="#ffd36e"/><path d="M 62 1251 L 273 986 L 427 1137 L 567 959 L 764 1251 Z" fill="#ff8fb8" opacity="0.8"/>
+</g>
+<text x="400.0" y="1273" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#ffeef6" opacity="0.75">8 / 10 — dummy page, replace with real art</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1705" viewBox="0 0 800 1705">
+<rect width="800" height="1705" fill="#12172b"/>
+<rect x="62" y="36" width="702" height="781" rx="6" fill="#12172b" stroke="#7c8cff" stroke-width="3"/>
+<g clip-path="url(#clip6_0)">
+<clipPath id="clip6_0"><rect x="62" y="36" width="702" height="781" rx="6"/></clipPath>
+<circle cx="588" cy="255" r="84" fill="#b8a1ff"/><path d="M 62 817 L 273 364 L 427 622 L 567 317 L 764 817 Z" fill="#7c8cff" opacity="0.8"/>
+</g>
+<rect x="36" y="835" width="728" height="834" rx="6" fill="#12172b" stroke="#7c8cff" stroke-width="3"/>
+<g clip-path="url(#clip6_1)">
+<clipPath id="clip6_1"><rect x="36" y="835" width="728" height="834" rx="6"/></clipPath>
+<circle cx="582" cy="1069" r="87" fill="#b8a1ff"/><path d="M 36 1669 L 254 1185 L 415 1461 L 560 1135 L 764 1669 Z" fill="#7c8cff" opacity="0.8"/>
+</g>
+<text x="400.0" y="1691" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#e8ecff" opacity="0.75">6 / 10 — dummy page, replace with real art</text>
+</svg>

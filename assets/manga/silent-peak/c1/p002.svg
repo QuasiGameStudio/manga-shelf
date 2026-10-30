@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1509" viewBox="0 0 800 1509">
+<rect width="800" height="1509" fill="#191423"/>
+<rect x="62" y="36" width="702" height="755" rx="6" fill="#191423" stroke="#9a7bff" stroke-width="3"/>
+<g clip-path="url(#clip2_0)">
+<clipPath id="clip2_0"><rect x="62" y="36" width="702" height="755" rx="6"/></clipPath>
+<ellipse cx="413" cy="413" rx="265" ry="197" fill="none" stroke="#ece7ff" stroke-width="4"/><text x="413" y="421" font-family="Verdana,sans-serif" font-size="98" font-weight="bold" text-anchor="middle" fill="#ece7ff">WOW</text><circle cx="708" cy="590" r="5" fill="#ece7ff" opacity="0.8"/><circle cx="722" cy="602" r="8" fill="#ece7ff" opacity="0.8"/><circle cx="736" cy="614" r="11" fill="#ece7ff" opacity="0.8"/>
+</g>
+<rect x="36" y="809" width="728" height="664" rx="6" fill="#191423" stroke="#9a7bff" stroke-width="3"/>
+<g clip-path="url(#clip2_1)">
+<clipPath id="clip2_1"><rect x="36" y="809" width="728" height="664" rx="6"/></clipPath>
+<circle cx="582" cy="995" r="80" fill="#5ad1ff"/><path d="M 36 1473 L 254 1088 L 415 1307 L 560 1048 L 764 1473 Z" fill="#9a7bff" opacity="0.8"/>
+</g>
+<text x="400.0" y="1495" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#ece7ff" opacity="0.75">2 / 11 — dummy page, replace with real art</text>
+</svg>

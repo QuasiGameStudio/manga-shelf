@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1515" viewBox="0 0 800 1515">
+<rect width="800" height="1515" fill="#12172b"/>
+<rect x="36" y="36" width="728" height="745" rx="6" fill="#12172b" stroke="#7c8cff" stroke-width="3"/>
+<g clip-path="url(#clip6_0)">
+<clipPath id="clip6_0"><rect x="36" y="36" width="728" height="745" rx="6"/></clipPath>
+<line x1="42" y1="293" x2="758" y2="291" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><line x1="42" y1="413" x2="758" y2="420" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><line x1="42" y1="320" x2="758" y2="327" stroke="#7c8cff" stroke-width="3" opacity="0.5"/><line x1="42" y1="539" x2="758" y2="539" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><line x1="42" y1="586" x2="758" y2="583" stroke="#7c8cff" stroke-width="5" opacity="0.5"/><line x1="42" y1="195" x2="758" y2="199" stroke="#7c8cff" stroke-width="5" opacity="0.5"/><line x1="42" y1="309" x2="758" y2="311" stroke="#7c8cff" stroke-width="5" opacity="0.5"/><line x1="42" y1="117" x2="758" y2="122" stroke="#7c8cff" stroke-width="2" opacity="0.5"/><line x1="42" y1="154" x2="758" y2="146" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><line x1="42" y1="265" x2="758" y2="258" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><circle cx="400" cy="409" r="160" fill="none" stroke="#b8a1ff" stroke-width="6"/>
+</g>
+<rect x="36" y="799" width="728" height="680" rx="6" fill="#12172b" stroke="#7c8cff" stroke-width="3"/>
+<g clip-path="url(#clip6_1)">
+<clipPath id="clip6_1"><rect x="36" y="799" width="728" height="680" rx="6"/></clipPath>
+<circle cx="225" cy="1165" r="70" fill="#b8a1ff" opacity="0.85"/><path d="M 134 1471 Q 225 1207 316 1471 Z" fill="#7c8cff" opacity="0.85"/><circle cx="393" cy="1140" r="69" fill="#b8a1ff" opacity="0.85"/><path d="M 304 1471 Q 393 1181 482 1471 Z" fill="#7c8cff" opacity="0.85"/>
+</g>
+<text x="400.0" y="1501" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#e8ecff" opacity="0.75">6 / 12 — dummy page, replace with real art</text>
+</svg>

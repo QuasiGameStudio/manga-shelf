@@ -1,0 +1,44 @@
+name: Deploy Web (GCS)
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "README.md"
+      - "docs/**"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-web
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Assemble static site
+        run: |
+          mkdir -p site
+          cp index.html style.css app.js site/
+          cp -r assets site/assets
+
+      - name: Authenticate to Google Cloud (SA key)
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.GCP_SA_KEY }}
+
+      - name: Set up gcloud
+        uses: google-github-actions/setup-gcloud@v2
+
+      - name: Upload to gs://game-list/games/manga-shelf/
+        run: |
+          gcloud storage rm --recursive "gs://game-list/games/manga-shelf/**" || true
+          gcloud storage cp -r --cache-control="public, max-age=300" site/* "gs://game-list/games/manga-shelf/"
+
+      - name: Deployment result
+        run: echo "Live at https://storage.googleapis.com/game-list/games/manga-shelf/index.html"

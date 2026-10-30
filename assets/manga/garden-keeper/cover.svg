@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200" viewBox="0 0 800 1200">
+<defs><linearGradient id="cg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b2418"/><stop offset="1" stop-color="#7fd069" stop-opacity="0.55"/></linearGradient></defs>
+<rect width="800" height="1200" fill="url(#cg)"/>
+<line x1="585" y1="438" x2="852" y2="307" stroke="#ffe08a" stroke-width="3" opacity="0.31"/>
+<line x1="258" y1="701" x2="175" y2="802" stroke="#ffe08a" stroke-width="6" opacity="0.28"/>
+<line x1="477" y1="735" x2="581" y2="1016" stroke="#ffe08a" stroke-width="5" opacity="0.24"/>
+<line x1="574" y1="683" x2="693" y2="788" stroke="#ffe08a" stroke-width="9" opacity="0.36"/>
+<line x1="501" y1="686" x2="711" y2="1014" stroke="#ffe08a" stroke-width="6" opacity="0.35"/>
+<line x1="589" y1="388" x2="927" y2="139" stroke="#ffe08a" stroke-width="8" opacity="0.23"/>
+<line x1="178" y1="555" x2="-134" y2="593" stroke="#ffe08a" stroke-width="4" opacity="0.32"/>
+<line x1="429" y1="790" x2="461" y2="1082" stroke="#ffe08a" stroke-width="4" opacity="0.17"/>
+<line x1="302" y1="331" x2="153" y2="30" stroke="#ffe08a" stroke-width="8" opacity="0.24"/>
+<line x1="536" y1="759" x2="669" y2="984" stroke="#ffe08a" stroke-width="6" opacity="0.23"/>
+<line x1="221" y1="445" x2="-37" y2="326" stroke="#ffe08a" stroke-width="3" opacity="0.23"/>
+<line x1="306" y1="750" x2="165" y2="1084" stroke="#ffe08a" stroke-width="3" opacity="0.16"/>
+<line x1="197" y1="677" x2="-128" y2="916" stroke="#ffe08a" stroke-width="3" opacity="0.35"/>
+<line x1="457" y1="712" x2="505" y2="866" stroke="#ffe08a" stroke-width="7" opacity="0.32"/>
+<line x1="398" y1="297" x2="395" y2="-19" stroke="#ffe08a" stroke-width="7" opacity="0.22"/>
+<line x1="217" y1="713" x2="-41" y2="975" stroke="#ffe08a" stroke-width="8" opacity="0.31"/>
+<line x1="254" y1="308" x2="110" y2="90" stroke="#ffe08a" stroke-width="4" opacity="0.26"/>
+<line x1="222" y1="460" x2="74" y2="403" stroke="#ffe08a" stroke-width="6" opacity="0.18"/>
+<line x1="288" y1="748" x2="212" y2="898" stroke="#ffe08a" stroke-width="7" opacity="0.25"/>
+<line x1="203" y1="347" x2="28" y2="186" stroke="#ffe08a" stroke-width="8" opacity="0.19"/>
+<line x1="574" y1="586" x2="970" y2="717" stroke="#ffe08a" stroke-width="4" opacity="0.40"/>
+<line x1="432" y1="334" x2="467" y2="120" stroke="#ffe08a" stroke-width="8" opacity="0.25"/>
+<line x1="571" y1="468" x2="933" y2="340" stroke="#ffe08a" stroke-width="9" opacity="0.28"/>
+<line x1="375" y1="325" x2="331" y2="-24" stroke="#ffe08a" stroke-width="9" opacity="0.16"/>
+<line x1="647" y1="622" x2="1008" y2="758" stroke="#ffe08a" stroke-width="7" opacity="0.37"/>
+<line x1="288" y1="759" x2="229" y2="880" stroke="#ffe08a" stroke-width="5" opacity="0.38"/>
+<circle cx="400.0" cy="528.0" r="150" fill="#ffe08a" opacity="0.9"/>
+<circle cx="400.0" cy="528.0" r="150" fill="none" stroke="#1b2418" stroke-width="10"/>
+<text x="400.0" y="564.0" font-family="Georgia,serif" font-size="64" font-weight="bold" text-anchor="middle" fill="#1b2418">DUMMY</text>
+<rect x="40" y="940" width="720" height="200" rx="14" fill="#1b2418" opacity="0.88"/>
+<text x="400.0" y="1010" font-family="Georgia,serif" font-size="46" font-weight="bold" text-anchor="middle" fill="#eefbe6">The Garden</text>
+<text x="400.0" y="1066" font-family="Georgia,serif" font-size="46" font-weight="bold" text-anchor="middle" fill="#eefbe6">Keeper</text>
+<text x="400.0" y="1108" font-family="Verdana,sans-serif" font-size="26" text-anchor="middle" fill="#ffe08a">story &amp; art — Hana Mori</text>
+<text x="400.0" y="1148" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#eefbe6" opacity="0.7">2 chapters · dummy cover</text>
+</svg>

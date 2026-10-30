@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1517" viewBox="0 0 800 1517">
+<rect width="800" height="1517" fill="#101820"/>
+<rect x="62" y="36" width="702" height="298" rx="6" fill="#101820" stroke="#31e0d0" stroke-width="3"/>
+<g clip-path="url(#clip8_0)">
+<clipPath id="clip8_0"><rect x="62" y="36" width="702" height="298" rx="6"/></clipPath>
+<circle cx="588" cy="120" r="36" fill="#ffe14d"/><path d="M 62 334 L 273 161 L 427 260 L 567 143 L 764 334 Z" fill="#31e0d0" opacity="0.8"/>
+</g>
+<rect x="36" y="352" width="728" height="540" rx="6" fill="#101820" stroke="#31e0d0" stroke-width="3"/>
+<g clip-path="url(#clip8_1)">
+<clipPath id="clip8_1"><rect x="36" y="352" width="728" height="540" rx="6"/></clipPath>
+<ellipse cx="400" cy="623" rx="204" ry="151" fill="none" stroke="#d9fbff" stroke-width="4"/><text x="400" y="631" font-family="Verdana,sans-serif" font-size="76" font-weight="bold" text-anchor="middle" fill="#d9fbff">WOW</text><circle cx="627" cy="759" r="5" fill="#d9fbff" opacity="0.8"/><circle cx="641" cy="771" r="8" fill="#d9fbff" opacity="0.8"/><circle cx="655" cy="783" r="11" fill="#d9fbff" opacity="0.8"/>
+</g>
+<rect x="62" y="911" width="702" height="570" rx="6" fill="#101820" stroke="#31e0d0" stroke-width="3"/>
+<g clip-path="url(#clip8_2)">
+<clipPath id="clip8_2"><rect x="62" y="911" width="702" height="570" rx="6"/></clipPath>
+<line x1="68" y1="1135" x2="758" y2="1138" stroke="#31e0d0" stroke-width="5" opacity="0.5"/><line x1="68" y1="1306" x2="758" y2="1298" stroke="#31e0d0" stroke-width="4" opacity="0.5"/><line x1="68" y1="1155" x2="758" y2="1152" stroke="#31e0d0" stroke-width="5" opacity="0.5"/><line x1="68" y1="990" x2="758" y2="989" stroke="#31e0d0" stroke-width="3" opacity="0.5"/><line x1="68" y1="1366" x2="758" y2="1361" stroke="#31e0d0" stroke-width="5" opacity="0.5"/><line x1="68" y1="1410" x2="758" y2="1411" stroke="#31e0d0" stroke-width="3" opacity="0.5"/><line x1="68" y1="1250" x2="758" y2="1243" stroke="#31e0d0" stroke-width="2" opacity="0.5"/><line x1="68" y1="1073" x2="758" y2="1076" stroke="#31e0d0" stroke-width="5" opacity="0.5"/><line x1="68" y1="970" x2="758" y2="976" stroke="#31e0d0" stroke-width="2" opacity="0.5"/><line x1="68" y1="1026" x2="758" y2="1031" stroke="#31e0d0" stroke-width="5" opacity="0.5"/><circle cx="413" cy="1196" r="125" fill="none" stroke="#ffe14d" stroke-width="6"/>
+</g>
+<text x="400.0" y="1503" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#d9fbff" opacity="0.75">8 / 11 — dummy page, replace with real art</text>
+</svg>

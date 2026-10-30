@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1345" viewBox="0 0 800 1345">
+<rect width="800" height="1345" fill="#191423"/>
+<rect x="36" y="36" width="728" height="478" rx="6" fill="#191423" stroke="#9a7bff" stroke-width="3"/>
+<g clip-path="url(#clip2_0)">
+<clipPath id="clip2_0"><rect x="36" y="36" width="728" height="478" rx="6"/></clipPath>
+<ellipse cx="400" cy="275" rx="181" ry="134" fill="none" stroke="#ece7ff" stroke-width="4"/><text x="400" y="283" font-family="Verdana,sans-serif" font-size="67" font-weight="bold" text-anchor="middle" fill="#ece7ff">OK.</text><circle cx="601" cy="395" r="5" fill="#ece7ff" opacity="0.8"/><circle cx="615" cy="407" r="8" fill="#ece7ff" opacity="0.8"/><circle cx="629" cy="419" r="11" fill="#ece7ff" opacity="0.8"/>
+</g>
+<rect x="36" y="532" width="728" height="777" rx="6" fill="#191423" stroke="#9a7bff" stroke-width="3"/>
+<g clip-path="url(#clip2_1)">
+<clipPath id="clip2_1"><rect x="36" y="532" width="728" height="777" rx="6"/></clipPath>
+<circle cx="582" cy="750" r="87" fill="#5ad1ff"/><path d="M 36 1309 L 254 858 L 415 1115 L 560 812 L 764 1309 Z" fill="#9a7bff" opacity="0.8"/>
+</g>
+<text x="400.0" y="1331" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#ece7ff" opacity="0.75">2 / 11 — dummy page, replace with real art</text>
+</svg>

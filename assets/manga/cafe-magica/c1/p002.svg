@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1241" viewBox="0 0 800 1241">
+<rect width="800" height="1241" fill="#2a1b2d"/>
+<rect x="62" y="36" width="702" height="290" rx="6" fill="#2a1b2d" stroke="#ff8fb8" stroke-width="3"/>
+<g clip-path="url(#clip2_0)">
+<clipPath id="clip2_0"><rect x="62" y="36" width="702" height="290" rx="6"/></clipPath>
+<rect x="64" y="169" width="66" height="157" fill="#ffd36e" opacity="0.55"/><rect x="83" y="200" width="10" height="16" fill="#ffeef6" opacity="0.7"/><rect x="134" y="236" width="66" height="89" fill="#ffd36e" opacity="0.55"/><rect x="153" y="254" width="10" height="9" fill="#ffeef6" opacity="0.7"/><rect x="204" y="158" width="66" height="167" fill="#ffd36e" opacity="0.55"/><rect x="223" y="192" width="10" height="17" fill="#ffeef6" opacity="0.7"/><rect x="275" y="207" width="66" height="119" fill="#ffd36e" opacity="0.55"/><rect x="294" y="231" width="10" height="12" fill="#ffeef6" opacity="0.7"/><rect x="345" y="162" width="66" height="163" fill="#ffd36e" opacity="0.55"/><rect x="364" y="195" width="10" height="16" fill="#ffeef6" opacity="0.7"/><rect x="415" y="147" width="66" height="179" fill="#ffd36e" opacity="0.55"/><rect x="434" y="183" width="10" height="18" fill="#ffeef6" opacity="0.7"/><rect x="485" y="244" width="66" height="82" fill="#ffd36e" opacity="0.55"/><rect x="504" y="260" width="10" height="8" fill="#ffeef6" opacity="0.7"/><rect x="555" y="203" width="66" height="122" fill="#ffd36e" opacity="0.55"/><rect x="574" y="228" width="10" height="12" fill="#ffeef6" opacity="0.7"/><rect x="626" y="173" width="66" height="152" fill="#ffd36e" opacity="0.55"/><rect x="645" y="204" width="10" height="15" fill="#ffeef6" opacity="0.7"/><rect x="696" y="185" width="66" height="140" fill="#ffd36e" opacity="0.55"/><rect x="715" y="213" width="10" height="14" fill="#ffeef6" opacity="0.7"/>
+</g>
+<rect x="36" y="344" width="728" height="303" rx="6" fill="#2a1b2d" stroke="#ff8fb8" stroke-width="3"/>
+<g clip-path="url(#clip2_1)">
+<clipPath id="clip2_1"><rect x="36" y="344" width="728" height="303" rx="6"/></clipPath>
+<line x1="42" y1="622" x2="758" y2="619" stroke="#ff8fb8" stroke-width="5" opacity="0.5"/><line x1="42" y1="547" x2="758" y2="552" stroke="#ff8fb8" stroke-width="4" opacity="0.5"/><line x1="42" y1="615" x2="758" y2="612" stroke="#ff8fb8" stroke-width="5" opacity="0.5"/><line x1="42" y1="506" x2="758" y2="502" stroke="#ff8fb8" stroke-width="4" opacity="0.5"/><line x1="42" y1="565" x2="758" y2="563" stroke="#ff8fb8" stroke-width="2" opacity="0.5"/><line x1="42" y1="399" x2="758" y2="405" stroke="#ff8fb8" stroke-width="5" opacity="0.5"/><line x1="42" y1="453" x2="758" y2="446" stroke="#ff8fb8" stroke-width="5" opacity="0.5"/><circle cx="400" cy="495" r="67" fill="none" stroke="#ffd36e" stroke-width="6"/>
+</g>
+<rect x="36" y="665" width="728" height="225" rx="6" fill="#2a1b2d" stroke="#ff8fb8" stroke-width="3"/>
+<g clip-path="url(#clip2_2)">
+<clipPath id="clip2_2"><rect x="36" y="665" width="728" height="225" rx="6"/></clipPath>
+<circle cx="214" cy="753" r="28" fill="#ffd36e" opacity="0.85"/><path d="M 178 882 Q 214 769 250 882 Z" fill="#ff8fb8" opacity="0.85"/><circle cx="404" cy="757" r="28" fill="#ffd36e" opacity="0.85"/><path d="M 368 882 Q 404 774 440 882 Z" fill="#ff8fb8" opacity="0.85"/><circle cx="573" cy="781" r="28" fill="#ffd36e" opacity="0.85"/><path d="M 537 882 Q 573 798 609 882 Z" fill="#ff8fb8" opacity="0.85"/>
+</g>
+<rect x="36" y="908" width="728" height="297" rx="6" fill="#2a1b2d" stroke="#ff8fb8" stroke-width="3"/>
+<g clip-path="url(#clip2_3)">
+<clipPath id="clip2_3"><rect x="36" y="908" width="728" height="297" rx="6"/></clipPath>
+<circle cx="209" cy="1073" r="41" fill="#ffd36e" opacity="0.85"/><path d="M 156 1197 Q 209 1097 262 1197 Z" fill="#ff8fb8" opacity="0.85"/><circle cx="394" cy="1003" r="43" fill="#ffd36e" opacity="0.85"/><path d="M 338 1197 Q 394 1029 450 1197 Z" fill="#ff8fb8" opacity="0.85"/>
+</g>
+<text x="400.0" y="1227" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#ffeef6" opacity="0.75">2 / 9 — dummy page, replace with real art</text>
+</svg>

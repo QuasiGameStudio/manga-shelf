@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1431" viewBox="0 0 800 1431">
+<rect width="800" height="1431" fill="#12172b"/>
+<rect x="36" y="36" width="728" height="443" rx="6" fill="#12172b" stroke="#7c8cff" stroke-width="3"/>
+<g clip-path="url(#clip5_0)">
+<clipPath id="clip5_0"><rect x="36" y="36" width="728" height="443" rx="6"/></clipPath>
+<ellipse cx="400" cy="258" rx="168" ry="124" fill="none" stroke="#e8ecff" stroke-width="4"/><text x="400" y="266" font-family="Verdana,sans-serif" font-size="62" font-weight="bold" text-anchor="middle" fill="#e8ecff">HEY!</text><circle cx="586" cy="369" r="5" fill="#e8ecff" opacity="0.8"/><circle cx="600" cy="381" r="8" fill="#e8ecff" opacity="0.8"/><circle cx="614" cy="393" r="11" fill="#e8ecff" opacity="0.8"/>
+</g>
+<rect x="36" y="497" width="728" height="320" rx="6" fill="#12172b" stroke="#7c8cff" stroke-width="3"/>
+<g clip-path="url(#clip5_1)">
+<clipPath id="clip5_1"><rect x="36" y="497" width="728" height="320" rx="6"/></clipPath>
+<line x1="42" y1="641" x2="758" y2="647" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><line x1="42" y1="731" x2="758" y2="736" stroke="#7c8cff" stroke-width="3" opacity="0.5"/><line x1="42" y1="504" x2="758" y2="509" stroke="#7c8cff" stroke-width="3" opacity="0.5"/><line x1="42" y1="676" x2="758" y2="674" stroke="#7c8cff" stroke-width="2" opacity="0.5"/><line x1="42" y1="701" x2="758" y2="699" stroke="#7c8cff" stroke-width="5" opacity="0.5"/><line x1="42" y1="687" x2="758" y2="680" stroke="#7c8cff" stroke-width="2" opacity="0.5"/><line x1="42" y1="641" x2="758" y2="649" stroke="#7c8cff" stroke-width="3" opacity="0.5"/><circle cx="400" cy="657" r="70" fill="none" stroke="#b8a1ff" stroke-width="6"/>
+</g>
+<rect x="36" y="835" width="728" height="296" rx="6" fill="#12172b" stroke="#7c8cff" stroke-width="3"/>
+<g clip-path="url(#clip5_2)">
+<clipPath id="clip5_2"><rect x="36" y="835" width="728" height="296" rx="6"/></clipPath>
+<line x1="42" y1="866" x2="758" y2="873" stroke="#7c8cff" stroke-width="2" opacity="0.5"/><line x1="42" y1="973" x2="758" y2="978" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><line x1="42" y1="903" x2="758" y2="910" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><line x1="42" y1="853" x2="758" y2="849" stroke="#7c8cff" stroke-width="2" opacity="0.5"/><line x1="42" y1="1021" x2="758" y2="1024" stroke="#7c8cff" stroke-width="2" opacity="0.5"/><line x1="42" y1="1016" x2="758" y2="1020" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><line x1="42" y1="1125" x2="758" y2="1120" stroke="#7c8cff" stroke-width="3" opacity="0.5"/><line x1="42" y1="916" x2="758" y2="912" stroke="#7c8cff" stroke-width="5" opacity="0.5"/><line x1="42" y1="927" x2="758" y2="928" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><line x1="42" y1="1008" x2="758" y2="1008" stroke="#7c8cff" stroke-width="4" opacity="0.5"/><circle cx="400" cy="983" r="65" fill="none" stroke="#b8a1ff" stroke-width="6"/>
+</g>
+<rect x="36" y="1149" width="728" height="246" rx="6" fill="#12172b" stroke="#7c8cff" stroke-width="3"/>
+<g clip-path="url(#clip5_3)">
+<clipPath id="clip5_3"><rect x="36" y="1149" width="728" height="246" rx="6"/></clipPath>
+<circle cx="232" cy="1245" r="27" fill="#b8a1ff" opacity="0.85"/><path d="M 196 1387 Q 232 1261 268 1387 Z" fill="#7c8cff" opacity="0.85"/><circle cx="408" cy="1272" r="35" fill="#b8a1ff" opacity="0.85"/><path d="M 362 1387 Q 408 1294 454 1387 Z" fill="#7c8cff" opacity="0.85"/>
+</g>
+<text x="400.0" y="1417" font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#e8ecff" opacity="0.75">5 / 12 — dummy page, replace with real art</text>
+</svg>
