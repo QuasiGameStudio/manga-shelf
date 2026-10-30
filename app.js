@@ -376,9 +376,20 @@
       onPageState(cur, frac);
     }
     window.addEventListener("scroll", onScroll, { passive: true });
+    /* fallback poll: catches scrolls whose events get coalesced/missed
+       (scrollbar drags, keyboard, some programmatic scrolls). Only acts when
+       the offset actually changed, so tap-toggle isn't overridden. */
+    let pollY = -1;
+    const poll = setInterval(() => {
+      const y = window.scrollY;
+      if (y !== pollY) { pollY = y; onScroll(); }
+    }, 300);
     onScroll();
 
-    readerCleanup = () => window.removeEventListener("scroll", onScroll);
+    readerCleanup = () => {
+      window.removeEventListener("scroll", onScroll);
+      clearInterval(poll);
+    };
   }
 
   /* first paint */
