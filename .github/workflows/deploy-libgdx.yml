@@ -58,7 +58,9 @@ jobs:
           find "$DEPLOY" -type f \
             \( -name '*.html' -o -name '*.css' -o -name '*.js' -o -name '*.txt' \
                -o -name '*.glsl' -o -name '*.fnt' -o -name '*.xml' -o -name '*.json' \) \
-            -print0 | xargs -0 -P4 brotli --force --quality=11
+            -print0 | while IFS= read -r -d '' f; do
+              brotli --force --quality=11 "$f" && mv -f "$f.br" "$f"
+            done
 
           DEST="gs://game-list/games/GameZone/$GAME"
 
