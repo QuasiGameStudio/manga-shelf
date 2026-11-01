@@ -1,4 +1,4 @@
-/* The page background matches CatchScreen.CLEAR, so any letterboxing around the canvas
+/* The page background matches DarumaScreen.CLEAR, so any letterboxing around the canvas
    reads as more sky instead of a dark frame. */
 canvas {
     cursor: default;
