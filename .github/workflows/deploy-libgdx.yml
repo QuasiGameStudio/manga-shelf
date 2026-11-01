@@ -1,0 +1,86 @@
+name: Deploy libGDX (GCS)
+
+on:
+  workflow_dispatch:
+    inputs:
+      game:
+        description: "games/<slug>/ to build+deploy"
+        required: false
+        default: "daruma-bash"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-libgdx
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - uses: gradle/actions/setup-gradle@v4
+
+      - name: Authenticate to Google Cloud (SA key)
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.GCP_SA_KEY }}
+
+      - name: Set up gcloud
+        uses: google-github-actions/setup-gcloud@v2
+
+      - name: Build, compress and upload
+        env:
+          GAME: ${{ inputs.game }}
+        run: |
+          set -euo pipefail
+          [[ "$GAME" =~ ^[a-zA-Z0-9][a-zA-Z0-9_-]*$ ]] || { echo "Bad slug: $GAME"; exit 1; }
+          cd "games/$GAME"
+          chmod +x gradlew
+          ./gradlew html:dist --no-daemon --stacktrace
+          cd "$GITHUB_WORKSPACE"
+
+          SRC="games/$GAME/html/build/dist"
+          DEPLOY="/tmp/deploy-$GAME"
+          rm -rf "$DEPLOY"
+          mkdir -p "$DEPLOY"
+          cp -R "$SRC"/. "$DEPLOY"/
+
+          if ! command -v brotli >/dev/null; then sudo apt-get update -qq && sudo apt-get install -y -qq brotli; fi
+
+          find "$DEPLOY" -type f \
+            \( -name '*.html' -o -name '*.css' -o -name '*.js' -o -name '*.txt' \
+               -o -name '*.glsl' -o -name '*.fnt' -o -name '*.xml' -o -name '*.json' \) \
+            -print0 | xargs -0 -P4 brotli --force --quality=11
+
+          DEST="gs://game-list/games/GameZone/$GAME"
+
+          find "$DEPLOY" -type f -print0 | while IFS= read -r -d '' f; do
+            rel="${f#$DEPLOY/}"
+            gcloud storage cp --cache-control="public, max-age=300" "$f" "$DEST/$rel"
+          done
+
+          find "$DEPLOY" -type f \
+            \( -name '*.html' -o -name '*.css' -o -name '*.js' -o -name '*.txt' \
+               -o -name '*.glsl' -o -name '*.fnt' -o -name '*.xml' -o -name '*.json' \) \
+            -print0 | while IFS= read -r -d '' f; do
+              rel="${f#$DEPLOY/}"
+              case "$f" in
+                *.html) ct="text/html";;
+                *.css)  ct="text/css";;
+                *.js)   ct="application/javascript";;
+                *.json) ct="application/json";;
+                *)      ct="text/plain";;
+              esac
+              gcloud storage objects update "$DEST/$rel" \
+                --content-type="$ct" --content-encoding=br
+            done
+
+          echo "Live at https://storage.googleapis.com/game-list/games/GameZone/$GAME/index.html"

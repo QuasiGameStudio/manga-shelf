@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit 2.11.0//EN" "https://www.gwtproject.org/doctype/2.11.0/gwt-module.dtd">
+<module>
+  <!-- Makes every class in com.gamezone.darumabash and its subpackages visible to the GWT compiler.
+       The HTML module inherits this, which is how the shared game code gets compiled to
+       JavaScript. Nothing here is desktop- or Android-specific. -->
+  <source path="" />
+
+  <!-- Reflection includes may be needed for your code or library code. Each value is separated by periods ('.'). -->
+  <!-- <extend-configuration-property name="gdx.reflect.include" value="fully.qualified.TypeName" /> -->
+</module>

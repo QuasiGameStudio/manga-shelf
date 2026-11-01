@@ -1,0 +1,4 @@
+rootProject.name = 'daruma-bash'
+include 'core'
+include 'lwjgl3'
+include 'html'

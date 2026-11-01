@@ -1,0 +1,48 @@
+plugins {
+    id 'application'
+}
+
+application {
+    mainClass = 'com.gamezone.darumabash.lwjgl3.Lwjgl3Launcher'
+}
+
+// Put the shared assets/ folder on the classpath so Gdx.files.internal() finds them.
+sourceSets.main.resources.srcDirs += [ rootProject.file('assets').path ]
+
+dependencies {
+    implementation project(':core')
+    implementation "com.badlogicgames.gdx:gdx-backend-lwjgl3:$gdxVersion"
+    implementation "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-desktop"
+    // FreeType renders the kid-friendly rounded TTF at any size, with outlines. Desktop-only:
+    // the web build uses atlases baked by tools/bake-web-fonts.py instead.
+    implementation "com.badlogicgames.gdx:gdx-freetype:$gdxVersion"
+    implementation "com.badlogicgames.gdx:gdx-freetype-platform:$gdxVersion:natives-desktop"
+}
+
+tasks.named('run') {
+    workingDir = rootProject.file('assets')
+    ignoreExitValue = true
+}
+
+// Self-contained runnable jar: gradlew lwjgl3:fatJar  ->  lwjgl3/build/libs/daruma-bash-1.0.0-all.jar
+tasks.register('fatJar', Jar) {
+    dependsOn configurations.runtimeClasspath
+    archiveBaseName = 'daruma-bash'
+    archiveClassifier = 'all'
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+
+    manifest {
+        attributes 'Main-Class': application.mainClass.get()
+    }
+
+    from sourceSets.main.output
+    from {
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+    exclude 'META-INF/*.SF', 'META-INF/*.DSA', 'META-INF/*.RSA', 'module-info.class'
+}
+
+// Keep the standalone jar part of a normal build, so a clean build never leaves it missing.
+tasks.named('build') {
+    dependsOn 'fatJar'
+}

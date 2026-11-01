@@ -1,0 +1,122 @@
+buildscript {
+  repositories {
+    mavenCentral()
+    gradlePluginPortal()
+  }
+  dependencies {
+    classpath "org.docstr.gwt:org.docstr.gwt.gradle.plugin:$gwtPluginVersion"
+  }
+}
+apply plugin: "org.docstr.gwt"
+apply plugin: "war"
+
+// Where the deployable site ends up, relative to this html/ folder. The GitHub Actions web
+// workflow uploads exactly this directory, so don't move it without updating that workflow.
+var outputPath = "build/dist/"
+
+gwt {
+  gwtVersion = "$gwtFrameworkVersion" // Should match the version used for building the GWT backend. See gradle.properties.
+  maxHeapSize = '1G' // Default 256m is not enough for the GWT compiler. GWT is HUNGRY.
+  minHeapSize = '1G'
+
+  modules = ["com.gamezone.darumabash.GdxDefinition"]
+
+  war = file(outputPath)
+  compiler.optimize = 9
+  compiler.strict = true
+  //// The next line can be useful to uncomment if you want output that hasn't been obfuscated.
+//  compiler.style = "DETAILED"
+
+  sourceLevel = '1.11'
+
+  devMode {
+    port = 8080
+    startupUrl = "http://127.0.0.1:8080/index.html"
+    modules = ["com.gamezone.darumabash.GdxDefinitionSuperdev"]
+  }
+  superDev {
+    modules = ["com.gamezone.darumabash.GdxDefinitionSuperdev"]
+  }
+}
+
+gwt.extraSourceDirs.from(
+  file('src/main/java'),
+  files(project(":core").file('src/main/java')),
+  files(project(':core').sourceSets.main.allJava.srcDirs),
+  files("../core/build/generated/sources/annotationProcessor/java/main")
+)
+
+dependencies {
+  implementation "com.badlogicgames.gdx:gdx-backend-gwt:$gdxVersion"
+  implementation "com.badlogicgames.gdx:gdx-backend-gwt:$gdxVersion:sources"
+  implementation "com.badlogicgames.gdx:gdx:$gdxVersion:sources"
+  implementation "com.google.jsinterop:jsinterop-annotations:2.1.0:sources"
+  implementation project(':core')
+
+  constraints {
+    implementation "jakarta.servlet:jakarta.servlet-api:6.1.0"
+  }
+}
+
+//// We delete the (temporary) war/ folder because if any extra files get into it, problems occur.
+//// The war/ folder shouldn't be committed to version control.
+clean.delete += [file("war")]
+
+//// The compileJava task is run at the start of any GWT build; we need to clean the output directory BEFORE
+//// anything can be built into that output directory, so the rest of the build can use it.
+tasks.named("compileJava").get().dependsOn("clean")
+
+//// You should always use the dist task, not the build task.
+tasks.register('dist') {
+  dependsOn(["build"])
+  doLast {
+    file(outputPath).mkdirs()
+    copy {
+      from("build/gwt/out") {
+        exclude '**/*.symbolMap' // Not used by a dist, and these can be large.
+      }
+      into outputPath
+    }
+    copy {
+      from("webapp") {
+        exclude 'index.html' // We edit this HTML file later.
+        exclude 'refresh.png' // We don't need this button; this saves some bytes.
+      }
+      into outputPath
+    }
+    copy {
+      from("webapp") {
+        // Takes the index.html page and removes the superdev refresh button.
+        include 'index.html'
+        filter { String line -> line.replaceAll('<a class="superdev" .+', '') }
+      }
+      into outputPath
+    }
+    copy {
+      from "war"
+      into outputPath
+    }
+    // The game reads its art and fonts through Gdx.files.internal(). The GWT module points
+    // gdx.assetpath at ../assets, i.e. the site root's assets/ folder, so ship the shared
+    // assets/ directory alongside the compiled JavaScript.
+    copy {
+      from("../assets")
+      into new File(outputPath, "assets")
+    }
+  }
+}
+
+tasks.register("distZip", Zip) {
+  dependsOn("dist")
+  from(outputPath)
+  archiveVersion = project.version.toString()
+  archiveBaseName.set("daruma-bash-dist")
+  destinationDirectory.set(file("build"))
+}
+
+//// The superDev task allows updating your sources in your editor and seeing your changes as soon as
+//// you refresh in the browser.
+tasks.register('superDev') {
+  dependsOn("dist", "gwtDevMode")
+  group("gwt")
+}

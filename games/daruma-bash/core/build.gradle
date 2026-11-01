@@ -1,0 +1,5 @@
+// Platform-independent game code lives here.
+// Nothing in this module may reference desktop/Android/iOS/HTML-specific APIs.
+dependencies {
+    api "com.badlogicgames.gdx:gdx:$gdxVersion"
+}
